@@ -4,6 +4,10 @@ function sayhello() {
 function say() {
   console.log('HELLO')
 }
+function sayHelloToIsabel() {
+  console.log("Hello, Isabel!")
+}
+
 function shout(string) {
   return string.toUpperCase()
 }  
