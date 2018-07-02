@@ -1,7 +1,7 @@
 function sayhello() {
-  console.log("hello")
+  console.log('hello')
 }
-function sayHELLO1() {
+function say() {
   console.log('HELLO')
 }
 function shout(string) {
