@@ -10,3 +10,6 @@ function sayHelloToIsabel() {
 function sayHelloToSofia() {
   console.log("Hello, Sofia!")
 }
+function sayHelloToBrendan() {
+  console.log("Hello, Brendan!")
+}
